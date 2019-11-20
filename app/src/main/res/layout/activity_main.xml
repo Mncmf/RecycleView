@@ -16,13 +16,5 @@
         android:layout_height="match_parent"
         />
 
-    <com.youth.banner.Banner
-        xmlns:app="http://schemas.android.com/apk/res-auto"
-        android:id="@+id/banner"
-        android:layout_width="340dp"
-        android:layout_height="140dp"
-        android:layout_marginTop="25dp"
-        android:layout_gravity="center"
-        />
     </LinearLayout>
 </LinearLayout>
